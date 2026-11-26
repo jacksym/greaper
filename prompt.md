@@ -14,11 +14,14 @@ The Reaper extension's purpose is to provide git level version control to music.
 # llm cli goals
 I have only used LLMs' chat feature. I want to learn how to optimize my workflow between LLM cli and my editor (vim + lsp + fugitive)
 I want to learn keyboard shortcuts and commands to interact with the cli better
+I don't quite know what 'agentic coding' means, but I want to learn
 
 # Stack
 As a REAPER extension, I want to use C++, git, and git-lfs.
 A sample extension is provided in ./sws-project.
 The suggested repo to clone for this development is in ./wdl/WDL
+I only want to use C++, C for languages (unless the extension framework necessitates it)
+I want to use cmake for compilation
 
 # Suggested Workflow
 1. I want to suggest a small change
